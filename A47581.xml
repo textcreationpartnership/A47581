@@ -1,0 +1,678 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth reignes conquerour, or, The light of hidden secrets revealed Shewing how all men erre from the waies of God, and what false prophets are, and how they are come into the world if it were possible, to deceive the elect. Being a vindication of the truth against popery, heresie, or schisme. Whereunto is annexed both exhortations and instructions to all those who desire to stand in the doctrine of the truth. By William Knowles B. of P.</title>
+            <author>Knowles, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47581</idno>
+            <idno type="STC">Wing K735</idno>
+            <idno type="STC">ESTC R221973</idno>
+            <idno type="EEBO-CITATION">99833215</idno>
+            <idno type="PROQUEST">99833215</idno>
+            <idno type="VID">37690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2172:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth reignes conquerour, or, The light of hidden secrets revealed Shewing how all men erre from the waies of God, and what false prophets are, and how they are come into the world if it were possible, to deceive the elect. Being a vindication of the truth against popery, heresie, or schisme. Whereunto is annexed both exhortations and instructions to all those who desire to stand in the doctrine of the truth. By William Knowles B. of P.</title>
+                  <author>Knowles, William.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Fr. Coles at the signe of the Lamb in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text in black letter.</note>
+                  <note>Copy has some print fade.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Christian life --  Biblical teaching --  Early works to 1800.</term>
+               <term>Worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37690:1"/>
+            <p>Truth Reignes Conquerour, OR, The Light of Hidden Secrets
+REVEALED. SHEWING How all men erre from the waies of God, and what falſe
+Prophets are, and how they are come into the World if it were poſſible, to
+deceive the Elect. Being a vindication of the Truth againſt <hi>Popery,
+Hereſie,</hi> or <hi>Schiſme.</hi>
+            </p>
+            <q>
+               <p>And many ſhall follow their pernitious wayes by reaſon of whom
+the Truth ſhall be evill ſpo<g ref="char:EOLhyphen"/>ken of,</p>
+               <bibl>2 Pet. 2.2.</bibl>
+            </q>
+            <q>
+               <p>Ye blind Guides, which ſtrain at a Knat, and ſwallowes a
+Camell,</p>
+               <bibl>Math. 23.24.</bibl>
+            </q>
+            <p>Whereunto is annexed both Exhortations and Inſtructions to all
+thoſe who deſire to ſtand in the Doctrine of the Truth.</p>
+            <p>By <hi>William Knowles</hi> B. of P.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Fr. Coles</hi> at the ſigne of
+the Lamb in the Old-Baily, 1662.</p>
+            <pb facs="tcp:37690:2" rendition="simple:additions"/>
+            <pb facs="tcp:37690:2"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37690:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>CHriſtian Reader.</salute>
+            </opener>
+            <p>I ſalute you here with ſeveral truths of Scripture,
+beſeeching all men to take adviſement by my words, they are no invented
+conceits, but real truths; to reach you a Religious way of Divine worſhip,
+eſtabliſhed by the power of God, and therefore not to be reſiſted by
+humane nature; for how dare you profeſs your ſelves the Saints of God when
+you do not own the Ordinances of God, as I will prove it and make your own
+tongues con<g ref="char:EOLhyphen"/>feſs it, you cannot deny it except ye be reprobates. <hi>Paul
+Rom.</hi> 18.18. ſaith <hi>Let every ſoul be ſubject to the higher
+pow<g ref="char:EOLhyphen"/>ers, for there is no power but of God, the powers that be are ordained of
+God: whoſoever reſiſteth the power reſiſteth the Ordinance of God,
+and they that reſiſt ſhall receive to them<g ref="char:EOLhyphen"/>ſelves damnation; for Rulers
+are not a terror to good works, but to evil. Wilt thou then not be afraid of
+the power, do that is good and you ſhall have praiſe of the ſame; for he
+is the Mi<g ref="char:EOLhyphen"/>niſter of God to thee for good, for if thou do that which is evil
+be afraid for he beareth not the ſword in vain; therefore you muſt be
+ſubject not on<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y for wrath, but
+for conſcience ſake. For this cauſe pay you tribute alſo, tribute to
+whom tribute, cuſtome to whom cuſtome, fear to whom fear, honour to whom
+honour is due, owe no man any thing, but love one another; for this is
+fulfilling the Law and Goſpel.</hi> So hoping the ſame ſhall work
+ſpiritually in you, I for the ſame ſhall pray, and reſt,</p>
+            <closer>
+               <signed>Your friend in Chriſt, W.K. B. of
+P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:37690:3" rendition="simple:additions"/>
+            <head>Hearken I beſeech you to my Text of Scripture written in 2
+<hi>Tim.</hi> 3. &amp; 1, 2, 3 verſes to the 8.</head>
+            <head type="sub">1. This know alſo that in the laſt dayes
+perillous Times ſhall come. 2. For men ſhall be lovers of their own
+ſelves, cove<g ref="char:EOLhyphen"/>tous, boaſters, proud, blaſphemers, diſobedient to
+Parents, unthankeful, unholy. 3. Without natural affection, truce-breakers,
+falſe accuſers, incontinent, fierce, deſpiſers of thoſe that are
+good. 4. Traytors, heady, high-minded lovers of pleaſures more then lovers of
+God. 5. Having a form of godlineſs, but denying the power thereof, from
+ſuch turn away. 6. Of this ſort are they which creep into houſes, and
+lead captive ſilly women, laden with ſins, and led away with divers
+luſts. 7. Ever learning and never able to come to the knowledge of the
+Truth.</head>
+            <p>MY dear and well beloved in Chriſt Ie<g ref="char:EOLhyphen"/>ſus, I am here as one
+that is at all obedience at any of your civil Com<g ref="char:EOLhyphen"/>mand according to my weak
+knowledge, and that gift of grace that God is at preſent pleaſed to
+be<g ref="char:EOLhyphen"/>ſtow upon me to diſpence the ſame ſo to you, and to do not any thing
+to the pleaſing of man in my work, that may disbelieve in it, but to the
+ho<g ref="char:EOLhyphen"/>nour and glory of God, and to the advantage of true believers of this light;
+for this is a light e<g ref="char:EOLhyphen"/>ven able to carry you out of any darkneſs or
+miſ<g ref="char:EOLhyphen"/>belief, for all you that acknowledge you love God are lyers, except you
+love your poor neighbours; for how can you love God whom you never ſaw, when
+you cannot love your well acquainted bro<g ref="char:EOLhyphen"/>ther: 1 <hi>John</hi> 4.20. <hi>Love
+is the fulfilling of the<pb n="4" facs="tcp:37690:4"/>Law, and the light of God is to keep
+his Com<g ref="char:EOLhyphen"/>mandments, which are not grievous.</hi> 1 <hi>John</hi> 5.3. <hi>And
+whoſoever keeps the Word of God his love there is perfected; tis no new
+Command but the Old, and the darkneſs is now paſt, and the true light now
+ſhineth; for he that profeſſeth himſelf to be in the light and hateth
+his poor brother, is in darkneſs till now;</hi> 1 <hi>John</hi> 2.9.
+<hi>Beloved, believe not every ſpirit, but try the ſpirit whether he be of
+God or of Man; if he be of God, he will keep the commands of God to his
+uttermoſt power, and then doth the true light dwell in him;</hi> For
+ac<g ref="char:EOLhyphen"/>cording to my Text, <hi>In the laſt dayes will come men which are
+ſeducers and lovers of their own ſelves, and have theſe failings,
+Covetous, boaſters, proud blaſphemers, diſobedient, unthankful, un<g ref="char:EOLhyphen"/>holy,
+without natural affections, truce-breakers, falſe accuſers, incontinent,
+fierce, deſpiſers of thoſe that are good; Traytors, heady high mind<g ref="char:EOLhyphen"/>ed,
+lovers of pleaſures more then lovers of God, ſhewing themſelves godly yet
+denies the power of God, and of ſuch ſort they be that lead ſilly Women
+Captive to deſtruction,</hi> 2 <hi>Tim.</hi> 3. <hi>Chap. from the</hi> 1.
+<hi>to the</hi> 7. <hi>Creeping into houſes, and makes the houſes of God a
+Den of Thieves, out of theſe words proceedeth ſtreams of juſtifications
+againſt that perſon that creepeth into houſes, deſpiſing God to be
+worſhipped in any form and order;</hi> for what ſaith St. <hi>Paul,</hi> 1
+<hi>Cor.</hi> 14.40. <hi>Let all things be done decently and in order,
+<pb n="5" facs="tcp:37690:4"/>for God is not the Author of confuſion, but of peace, as in
+all Churches of the Saints, ver.</hi> 33. <hi>but mark the opinions of thoſe
+men that will not worſhip in reverence nor in order according to the truth:
+you deſembling hypocrites,</hi> is not this a command of God which you
+diſannul? O your light is groſſe darkneſſe! next you'l uſe no
+per<g ref="char:EOLhyphen"/>ſons, no prayers, but pray by your ſpirit and the light within you,
+when St. <hi>Paul</hi> ſaith, <hi>brethen when you come together hear a
+Pſalme or a Doctrine, let things be done to edifying, as ſparks in a known
+tongue, as beaten Greek, or Hebrew or Engliſh, yet keep you ſilence in the
+Church, and ſpeak to your ſelfe and to God,</hi> 1 <hi>Cor.</hi>
+14.26,27,28. Next you hold it lawful for a woman to exhort in your Churches,
+which the Apoſtle <hi>Paul</hi> condemns your Hereſie, <hi>ſaying, let
+your women keep ſilence in the Churches for it is not permitted for them to
+ſpeak, for they are commanded to be under obedience;</hi> as alſo ſaith
+the Law, <hi>Gen.</hi> 3.16. 1 <hi>Cor.</hi> 14.34. <hi>and if ſhe will learn
+any thing let them ask their Hus<g ref="char:EOLhyphen"/>bands at home, for it is a ſhame for Women
+to ſpeak in the Church; and if any man amongſt the people thinkes
+himſelfe to be a Prophet or ſpiritual, let him acknowledge that the things
+which I write unto you are the commandements of God, and they that deny theſe
+things hath none of the light of Chriſt, and they are in dark<g ref="char:EOLhyphen"/>neſs till
+now;</hi> you tell us when our Prieſts talk<pb n="6" facs="tcp:37690:5"/>Latine how can
+the Church be edified? I an<g ref="char:EOLhyphen"/>ſwer if it be Latine firſt and revealed in our
+kown tongue the Church may be edified by it, 1 <hi>Cor.</hi> 14.4. for God hath
+ſet ſome in the Church 1. Apoſtles. 2. Prophets. 3. Teachers, after that
+miracles, then gifts of healing, help Govern<g ref="char:EOLhyphen"/>ments, diverſity of Tongues, 1
+<hi>Cor.</hi> 13.28. are all Apoſtles, are all Prophets, are all Teachers,
+no, all hath not this gift, there are divers guifts but the ſame ſpirit,
+but the manifeſtations of the ſpirit is given to every man to profit
+withall: ſome have the gift of wiſdom ſome knowledge, yet by the ſame
+ſpirit dividing to every man ſeve<g ref="char:EOLhyphen"/>rally as he will, for by one ſpirit we
+are bapti<g ref="char:EOLhyphen"/>ſed into one body, whether Iew or Gentle, whe<g ref="char:EOLhyphen"/>ther bond or
+frée, and have béen made to drink unto one ſpirit, 1
+<hi>Cor.</hi> 12.13. <hi>and according to his gift let him walk, he that is a
+Miniſter, let him live of his Miniſtring, he that is a Planter, let him
+live of his Planting, he that ploweth the Field, let him reap the Harveſt:
+for it is writ in the Law of Moſes thou ſhalt not muſſel the mouth of
+the Ox that treadeth out the Corn, Deut.</hi> 25.4. <hi>and it is written, he
+that ploweth ſhall plow in hope to be pertakers of his hope, and you that
+have ſown ſpiritual things, it is a great matter to reap carnal things,
+Rom.</hi> 15.27. do you know then ſaith the Apoſtle Paul, 1 <hi>Cor.</hi>
+9.13,14. that they which miniſter about holy things live of the temple, of
+the things of the temple, and they<pb n="7" facs="tcp:37690:5"/>which waite at the altar
+are partakers with the altar, <hi>Deut.</hi> 18.1. even ſo hath the Lord
+ordained, <hi>that they which Preach the Goſpel ſhall live of the
+Goſpel,</hi> 1 <hi>Cor.</hi> 9.14. and now to you who confeſſe your
+ſelves to be in the ſpirit of light and that the light is in you, which I
+deny; you ſay we are all except we believe on you ſtill in dark<g ref="char:EOLhyphen"/>neſſe,
+when I cannot find but you are blinded in the miſt of errors; <hi>for
+Chriſt the light of the world lightneth every man that cometh into the world,
+and of his fullneſs we receive Grace for Grace, Joh.</hi> 1.16. you eclipſe
+the light of Chriſt by diſobeying his ordinances, he lighteth all out of
+darkneſs into the perfect light of the Goſpel, and how that if we walk by
+the light of Chriſt we muſt kéep his Commandements, elſe we lived
+in darkneſs till now; you ſee the Apoſtle ordered things to be done in
+order in our Church, and ſaith, though he took no money for preaching, nor
+was not chargeable to any, yet he ſaith, God hath ordained <hi>that they that
+preach the Goſpel ſhould live of the Goſpel;</hi> then how can you be in
+the light when you own not the ordinances of God, Chriſt is the light of the
+earth, you are of thoſe St. <hi>Paul</hi> ſpake of, who make a ſhew of
+god<g ref="char:EOLhyphen"/>lineſs, but deny the truth, and follow your perni<g ref="char:EOLhyphen"/>cious waies.
+<hi>Paul</hi> ſets you out as you are <hi>ſwea<g ref="char:EOLhyphen"/>rers, heady,
+highminded,</hi> ſuch as créep into hou<g ref="char:EOLhyphen"/>ſes, denying, diſdaining,
+and baſely blaſpheming God, in your valn babling, contrary both to the
+<pb n="8" facs="tcp:37690:6"/>word of God and natural reaſon. Remember <hi>Abraham</hi>
+built a Temple to worſhip God in <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> Chriſt threw out
+the money-changers, ſaying, Do you make my houſe of prayer a den of
+thieves; you never read that Chriſt threw out the buyers and ſellers out of
+any place but the Temple or houſe of God, which is the Church; but like
+falſe prophets as you are you teach and exhort people to the contrary,
+diſdainfully calling them Stéeple-houſes, nay you will not come to
+hear a learned Divine preach, but follow your own waies, which are perverſe
+and evil: remem<g ref="char:EOLhyphen"/>ber Chriſt ſays, if two or thrée be met together in
+his name, he will be in the midſts of them; he is the Light, do not ſtumble
+in the dark, do not ſtumble at theſe things, being enemies to all
+au<g ref="char:EOLhyphen"/>thority, to the King firſt, and then to his people. You profeſſed your
+ſelves in the light when you murthered the King and 100000 ſubjects, but
+the Goſpel ſays, <hi>God is the Author of peace, not of confuſion;</hi>
+any you declared that his lawfull right was loſt in the field, ſetting up a
+power of your own, and heaping to your ſelves preachers after your own
+manner; but the author of peace in his good time brought the blood of his
+people upon your own heads. So deſiring of God no more the like confuſion
+may be among us, but that we ſubſcribe to the lawfull authority of our
+ſuperiors, the King, and other Majeſtrates under him, according to the word
+of God, and to mind<pb n="9" facs="tcp:37690:6"/>the threats of God againſt ſuch as
+ſhall rebell, I wiſh all people would truly underſtand, and hear me
+vindicate the truth againſt all unrighteous men: and my vindications are
+theſe:</p>
+            <p>1. <hi>The Lawfull authority of a King or Superi<g ref="char:EOLhyphen"/>our.</hi> 2.
+<hi>the Majeſtrates of juſtice.</hi> 3. <hi>The Biſhops approved.</hi> 4.
+<hi>The Church of God, and the Houſe of Divine Service, more fitter then a
+common houſe to worſhip God in.</hi> 5. <hi>Holy Prieſt-hood is excepted
+in the ſight of God.</hi> 6. <hi>Tithes ought not to be denyed but paid.</hi>
+7. <hi>The Lords Sup<g ref="char:EOLhyphen"/>per to be inſtituted.</hi> 8. <hi>And Laſtly,
+Baptiſme of Infants, vindicated with an Exhortation to Kings Majeſtrates,
+Biſhops and Prieſts and People, all in a ſhort Volume.</hi> To
+procéed, let that man deny this and tell me if Chriſt ever gave out a
+command that his Apoſtles or People ſhould not be in obedience to the
+higher power; yea, you ſhould both obey and pray for them, 1 <hi>Tim.</hi>
+2.12. For ſaith the Apoſtle <hi>Paul, I exhort you there<g ref="char:EOLhyphen"/>fore that firſt
+of all, Supplications, Prayers, In<g ref="char:EOLhyphen"/>terceſſions and giving of thanks be made
+for all men, for King and all in authority, for it is good and acceptable in
+the ſight of God our Saviour.</hi> So how then can you contrary to this word
+of truth, ſooth up your ſelves ſaying we are in the light, which path is
+not the light you tread in; the kéeping the commands of God and walking
+acceptable in his ſight is the light of Chriſt to walk by: Saint Paul
+ſaith againe in<pb n="10" facs="tcp:37690:7"/>
+               <hi>Titus</hi> 3.1. <hi>put them in mind to
+be ſubject to Principalities and Powers, and to obey Magi<g ref="char:EOLhyphen"/>ſtrates, to be
+ready to every good work;</hi> friends this is no old Cerimony of the Law of
+<hi>Moſes,</hi> but the commands of Chriſt and his Apoſtles which walked
+not in darkneſs but in clear light; nei<g ref="char:EOLhyphen"/>ther is theſe Ordinances any lets
+or hindrances to your ſpiritual life; for I muſt tell you if that you truly
+ſerve God and kéep his Commande<g ref="char:EOLhyphen"/>ments, you wil not diſanul the
+ordinance of God, <hi>Solomon</hi> ſaith, <hi>Fear God and the King, and
+meddle not with thoſe that are given to change, Pro.</hi> 24.21. you know or
+may know that your changing and running in opinions you are count<g ref="char:EOLhyphen"/>ed as a wave
+of the Sea that hath no reſt: and if you ever mean to be in the light of
+Chriſt, you muſt obey his Ordinances, and look what Chriſt hath commanded
+not to be done, that is a blind<g ref="char:EOLhyphen"/>neſs to do; but the Lord ever inſtructs you
+to o<g ref="char:EOLhyphen"/>bey ſupreme authority with Magiſtrates of Iu<g ref="char:EOLhyphen"/>ſtice, ſéeing
+it is for the puniſhment of evil doers and for the praiſe of them that do
+well; God ſaith covet not any thing that is your own neigh<g ref="char:EOLhyphen"/>bours, but love
+all men: that command was not kept by theſe that coveted and purloyned other
+mens eſtates and how did they walk in the light of Chriſt that did ſo,
+yet were as great profeſſors as the Phariſées were, and him who
+ſtood up <hi>Math.</hi> 18.7. in the Goſpell ſaying, <hi>O God I thank
+thee I have done this good work, and that good<pb n="11" facs="tcp:37690:7"/>work,
+juſtifying himſelf; but the poor Publican ſmites on his breaſt
+ſaying, Lord forgive me a ſin<g ref="char:EOLhyphen"/>ner, who was rather juſtified then the
+other;</hi> No my Friend, I tell thée béeſt thou of what
+o<g ref="char:EOLhyphen"/>pinion ſo ever, never juſtifie thy ſelf; yea exa<g ref="char:EOLhyphen"/>mine thy ſelf, and
+endeavour thy ſelf to kéep the commandes of God, and then thou
+mayeſt aſſure thy ſelf to be in the light of Chriſt Ieſus. So now
+touching the Church as I have told you al<g ref="char:EOLhyphen"/>ready in part; the Church is a
+Temple, and in the world there is ſeveral Churches, therefore I write to you
+all of what Church ſoever you be to lay ſure hold on Chriſt Ieſus, for
+he is the root and foundations of all our Ioy and Comfort; <hi>yea keep his
+Commandements and live, which are not grievous;</hi> but if you profeſſe
+your ſelves to be truly Saints, you muſt be truly perfect: the Apoſtle
+<hi>Paul</hi> ſaith to the Biſhop, <hi>be you blame<g ref="char:EOLhyphen"/>leſſe, otherwaies
+you are not fit for that office:</hi> ſo that man that taketh upon him to be
+a Prieſt, a Teacher, or a Prophet, muſt be blameleſſe not denying the
+Ordinances of God, <hi>for god requireth us to be ſubject to higher pow<g ref="char:EOLhyphen"/>ers,
+to obey Magiſtrates, to own Biſhops and Church Government, with decency and
+order, to hearken to the Prieſts, to pay Ticke of all, gi<g ref="char:EOLhyphen"/>ven Tribute to whom
+Tribute is due, to waite at the Table and be partakers of the Lords Supper if
+worthy receivers; to hinder not Children of receiving the ſigne of Grace,
+called Baptiſme;<pb n="12" facs="tcp:37690:8"/>and none of theſe will be any hindrance
+to your godly living;</hi> Chriſt hath not given us any ſtrickt order to
+refrain any of theſe things, if the reaſon of the mind will not give
+aſſiſtance to doe it, let cautions for quietneſs ſake do it, for we
+are commanded to live peaceable withall men, did our Prieſt not preach
+Chriſt, no matter to hearken after him? but Chriſt is fréely
+preached to the healing of our ſouls, yet will we not regard it, and loſe
+that opportunity of grace fréely offered from Chriſt by the mouth of
+the Miniſters, we ought not to give any further ear to any other doctrine,
+yet may we try the Churches and ſtick to that which is good; but my delight
+is this with holy <hi>David, I had rather ſit in the Church door, then to be
+the Teacher of a ſedicious people: And better it is to be the Door-keeper of
+the Houſe of God, then to ſit in the throne of an earthly Ta<g ref="char:EOLhyphen"/>bernacle:</hi>
+But you who are called divided Secta<g ref="char:EOLhyphen"/>ries do in abuſable manner cry down our
+Church Government calling a Stéeple-houſe, a Popiſh Cathedral, and
+ſeveral other diſgraceful ſpeeches you uſe. When Chriſt and his
+Apoſtles approves of the Temple of <hi>Jeruſalem</hi> to be a better place
+of decency than any other; and tell us what hurt you find in the appointed
+Houſe of God for Di<g ref="char:EOLhyphen"/>vine Service? that is an abominable action in you
+diſdaining of Gods Worſhip in any order but your own, and the Prieſt that
+is choſen by our Government, let him be never ſo good a man and
+<pb n="13" facs="tcp:37690:8"/>gallant Teacher, you deſpiſe him if he hath the name of
+a Prieſt, when there muſt be a Prieſt after the Order of
+<hi>Melchizedec</hi> for ever, that is to adminiſter the two outward Signs of
+grace, cal<g ref="char:EOLhyphen"/>led Baptiſm and the Lords Supper; for his or<g ref="char:EOLhyphen"/>der was ſuch to
+<hi>Abraham</hi> to receive Tyth of all: ſo long as our Prieſts which is
+choſen by au<g ref="char:EOLhyphen"/>thority, preaches Chriſt, they may exhort, people may hearken
+and be edified by their teaching: and I pray you in Chriſt Ieſus to be
+reconciled to God, and not refuſe to hear; for certainly with<g ref="char:EOLhyphen"/>out deceit,
+ſo long as you remain at variance, u<g ref="char:EOLhyphen"/>ſing contention of words, having evil
+ſurmiſings about the Truth, God is diſpleaſed with all ſuch
+hereſie: Examine your own ſelves and do not have ſuch preſumptuous
+minds, thinking your own merits cannot be equalled by any. Every one hath a
+meaſure of grace, and a gift of the holy Ghoſt, onely to uſe it as a
+Talent is lent for a time; ſome wealthy, ſome poor, and according as is
+meet, the adminiſtration is rewarded at the laſt day; what néed we
+to have ſo many Books made, which is but a wearineſs to the fleſh, 'tis
+the kéeping of Gods Commandments that dire<g ref="char:EOLhyphen"/>cteth us to Chriſt, the
+Light of the world which is not hid from men that ſéek him: <hi>Seek
+and you ſhall find;</hi> if you never ſéek, you never can find. Do
+you think Chriſt is not worth the ſeeking for? is not his mercy worth
+knocking for? nor is his glorious Throne worth asking for? O he
+<pb n="14" facs="tcp:37690:9"/>not ſo blinded, but open your eyes to the Truth, nor give
+no heed no new fangled Teachers, ſo long as Chriſt is preached to you, give
+attendance at the Houſe of God, and pray night and day that you may reap
+eternal ſalvation.</p>
+            <p>The next thing I touch, is the Office of Bi<g ref="char:EOLhyphen"/>ſhops, becauſe
+they are ſo much cryed down by all the ignorant ſort of people: but you may
+read in <hi>Titus, chap.</hi> 1.4. what St. <hi>Paul</hi> ſaith to his ſon;
+<hi>For this cauſe I left thee in Crete, that thou ſhoul<g ref="char:EOLhyphen"/>deſt ſet in
+order thoſe things that are wanting, and ordain Elders in every City as I had
+appoin<g ref="char:EOLhyphen"/>ted thee,</hi> that is, Biſhops as is ordained to con<g ref="char:EOLhyphen"/>tinue in every
+Biſhoprick; for the following Verſe makes it appear: the 6 Verſe, <hi>If
+any be blameleſs, a husband to a wife, having faithful children, not
+accuſed of riot nor unruly:</hi> Then go to the 7 Verſe, <hi>And it names
+you the Biſhops, ſaying the Biſhops muſt be blameleſs as the
+Stew<g ref="char:EOLhyphen"/>ards of God, not ſelf-willed, no ſtriker, not given to wine, that's
+exceſſive drinking, not ſoon angay nor covetous.</hi> Now
+Covetovſneſs is this, to co<g ref="char:EOLhyphen"/>vet any thing that is your neighbours, but a
+lover of Hoſpitality, that's charitable to the needy, a lover of good men;
+ſober, juſt, holy, temperate, holding forth the faithful Word that it may
+be a<g ref="char:EOLhyphen"/>ble to exhort, and to convince the gain-ſayers not giving heed to
+Iewiſh Fables and Commande<g ref="char:EOLhyphen"/>ments of men, that turn from the Truth, who
+pro<g ref="char:EOLhyphen"/>feſs they know God, but in works they deny<pb n="15" facs="tcp:37690:9"/>him,
+<hi>Titus</hi> 1.17. <hi>And Timothy ſaith, He that de<g ref="char:EOLhyphen"/>ſireth the Office of
+a Biſhop, deſireth a good work</hi> 1 <hi>Tim.</hi> 3.1. But firſt let
+him he proved, then let him uſe the Office, being found blameleſs,
+<hi>v.</hi> 10. Read 1 <hi>Tim.</hi> 5.1. <hi>Rebuke not an Elder but in<g ref="char:EOLhyphen"/>treat
+him as a Father;</hi> that is, a Biſhop ought not to be rebuked; for thou
+maiſt know how thou oughteſt to carry thy ſelf in the Houſe of God,
+which is the Church of the living God, the pillar of the truth, 2 <hi>Tim.</hi>
+3.15. <hi>and let the Biſhops or Elders that rule well be counted worthy of
+dou<g ref="char:EOLhyphen"/>ble honour, eſpecially they who labour in the word and doctrine, for the
+Laborer is worthy of hyre, Math.</hi> 10.10. 1 <hi>Tim.</hi> 5.17.19. <hi>for
+againſt the Elder return no Accuſation but before two or three
+witneſſes;</hi> I therefore beſéech you brethren not to put belief
+in fables, and to make con<g ref="char:EOLhyphen"/>troverſie about the word of God, and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ns thus to teach and exhort,
+and if any man teach otherwayes, and not in doctrine according to
+Godlineſſe, he is proud knowing nothing: but doubting about queſtions and
+ſtrife of words, whereof comes envy, diſcord, evill-<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rmiſing, perverſe diſputings of men of corrupt
+minde, and deſerters of the truth ſuppoſing that gain to be
+godlineſſe, <hi>but from ſuch withdraw thy ſelf, nor be not carried
+away with divers and ſtrange doctrine, for it is a good thing to have thy
+heart eſtabliſhed with Grace, Heb.</hi> 13.9. and remem<g ref="char:EOLhyphen"/>ber the teachers of
+God that rule over you, and<pb n="16" facs="tcp:37690:10"/>preaches Gods Word to the end of
+their lives, <hi>ver.</hi> 7. Theſe reaſons and grounds of Scripture are
+ſufficient to prove theſe Truths before men<g ref="char:EOLhyphen"/>tioned; for Chriſt ſaith,
+<hi>Beware of falſe prophets which comes to you in ſheeps cloathing, but
+in<g ref="char:EOLhyphen"/>wardly they are as ravenous wolves, you may know them by their fruits,
+Matth.</hi> 7.15. <hi>Luk.</hi> 6.43. And ſpiritual fruits are theſe, love,
+joy, peace, long-ſuffering, gentleneſs, goodneſs, faith,
+méek<g ref="char:EOLhyphen"/>neſs, temperance, againſt ſuch there is no law, and they that
+are Chriſts have crucified the fleſh with the affections and luſts;
+<hi>If we live in the ſpirit let us alſo walk in the ſpirit; let us not
+be deſirous of vain-glory, provoking and envy<g ref="char:EOLhyphen"/>ing of one another, Gal.</hi>
+5.26. Which ſo to be is a turning to unrighteouſneſs and to the works of
+the fleſh, which are fornication, uncleanneſſe, Idolatry, witchcraft,
+hatred, variance, wrath, ſtrife, ſeditions, hereſies, reviling, railing,
+mur<g ref="char:EOLhyphen"/>der, drunkenenneſs, envying, covetouſneſs, pride, loftineſs, and
+ſuch like, and they that do ſuch things can in no wiſe enter into life
+eternal: and Profeſſors and People be not thus led away by the Prince of
+Darkneſſe. 'Tis no profeſſing your ſelves to be in the light of
+Chriſt except you walk before God as did <hi>Abraham</hi> and be perfect,
+<hi>Gen.</hi> 7.1. Nay you muſt preſent your ſelf a ſa<g ref="char:EOLhyphen"/>crifice without
+ſpot or blemiſh. The Prieſt next I ſpeak, of whom that God ſent
+Chriſt to be a High Prieſt after the order of <hi>Melchizedec, Heb.</hi>
+               <pb n="17" facs="tcp:37690:10"/>6.20. For it is evident that our Lord ſprung out of
+<hi>Judah,</hi> of which Tribe <hi>Moſes</hi> ſpake nothing concerning
+prieſthood; but we having now a high Prieſt, even Chriſt Ieſus. Now
+concerning the Levitical Prieſthood is now ended, 'tis only the Prieſthood
+of <hi>Melchizedec's</hi> order that we attend too. Now let me tell you what
+was his order, his Order was to adminiſter the Sacrament of Chriſts body to
+<hi>Abraham,</hi> being as a Figure of Chriſts laſt Supper, which was bread
+and wine, <hi>Gen.</hi> 14. what recompence was admitted for
+<hi>Mel<g ref="char:EOLhyphen"/>chizedec</hi> Prieſt of the moſt high God. <hi>Abraham</hi> the
+faithful gave him Tyths of all. <hi>Gen.</hi> 14. then is it not neceſſary
+that our Prieſts that adminiſter the Sacrament and attend on the ſervice
+of <hi>God</hi> ſhould have tyths of all? You'l ſay Prieſt<g ref="char:EOLhyphen"/>hood was
+changed, and old things became new; and how then muſt of neceſſity be a
+change of the Law? yes, I grant this, but not a quit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſtroy<g ref="char:EOLhyphen"/>ing of the Law: <hi>Chriſt came not to
+deſtroy the Law but to fulfil it; for the law made nothing perfect but the
+bringing in of a better hope by which we draw nigh unto God, Heb.</hi> 7.16.
+For when Chriſt came into y<hi rend="sup">e</hi> world he preached Bap<g ref="char:EOLhyphen"/>tiſm of repentance,
+warning all both Prieſt &amp; peo<g ref="char:EOLhyphen"/>ple to hearken to his Doctrine w<hi rend="sup">c</hi> was not
+grie<g ref="char:EOLhyphen"/>vous, and to take obſervation by him, to walk humbly before God: the
+Apoſtle ſaith, that the Miniſter muſt live of his miniſtring; and how
+alſo the Miniſter of God muſt be choſen and ap<g ref="char:EOLhyphen"/>proved
+<pb n="18" facs="tcp:37690:11"/>of his miniſtring. Now when that Chriſt came &amp;
+ſaid, there néeds muſt be a change of the Law, and things muſt
+become new, is thus firſt the old Ceremonies of the Law are aboliſhed, as
+your Tabernacle and Candleſticks, and Shew<g ref="char:EOLhyphen"/>bread, the holieſt of all with
+the Golden Cenſor, the Golden Pot, Seraphin of glory, ſhadowing the Mercy
+Seat, wherein went the High Prieſt to offer the blood of Balis and Calves for
+himſelf and the ſorrows of the people, which was but a Figure for the time
+then preſent, but could ne<g ref="char:EOLhyphen"/>ver make the ſervice perfect <hi>Heb.</hi> 9.
+are to be left off by us Chriſtians, and all the Ceremonies that attend to
+the ſame purpoſe, thoſe are to be chan<g ref="char:EOLhyphen"/>ged and the adminiſtration, for
+which the Levi<g ref="char:EOLhyphen"/>tical Prieſt which makes a change of the Law; for when
+Chriſt came into the world he offered his own body as a ſacrifice for the
+people his own blood as a ranſom for all: then what more is the blood of
+Chriſt though the eternal ſpirit of God, better then the blood of Bulls and
+Calves. Chriſt offered but once for all to bear the ſins of the people, and
+unto them that look for him ſhall he appear the ſecond time without ſin
+unto ſalvati<g ref="char:EOLhyphen"/>on, <hi>Heb.</hi> 9.28. Chriſt dying, leaves all to his
+Diſciples, and ordains them next in the Church;
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e alſo chuſed Elders, called
+Biſhops; the Bi<g ref="char:EOLhyphen"/>ſhops chuſe Miniſters qualified for the Goſpel: and
+ſo all along God hath ſet in his Church Apo<g ref="char:EOLhyphen"/>ſtles, Prophets, and
+Teachers, and Governours,<pb n="19" facs="tcp:37690:11"/>1 <hi>Cor.</hi> 12.28. and
+ordaineth all: there ſhall be a way of maintenance for his Teachers
+accord<g ref="char:EOLhyphen"/>ing to the direction of that Government that is ſet in the Church:
+ſo this Government and many other before them give the Miniſters of God
+their maintenance by way of tyths, to preach the Goſpel after the order of
+<hi>Melchizedec</hi> for ever. A way of maintenance muſt be paid for the
+Mi<g ref="char:EOLhyphen"/>niſtry; then how can it be better then by way of Tythes? for if it was put
+to the Conſciences of ſome men of reſolute ſpirits they would pay
+no<g ref="char:EOLhyphen"/>thing, and by ſuch means the Goſpel of Chriſt would be
+diſcountenanced; or if all people ſhould have liberty of Conſcience to
+doe what they liſt, the Sabbath day would be of little regard, and a world of
+evil conceits practiſed, every man run<g ref="char:EOLhyphen"/>ning after the frowardneſs of his
+own heart; we ſhould have murder, whoredome, drunkenneſſe, and woful
+actions publickly committed: then all theſe abominations would rely upon the
+Go<g ref="char:EOLhyphen"/>vernour of the people: therefore judge you, is it not more pleaſing to God
+and Man to have this Kingdome eſtabliſhed with Truth and upright<g ref="char:EOLhyphen"/>neſſe,
+and thus far I have handled Tythes and Prieſthood.</p>
+            <p>Look what the King doth, ſo far as is not con<g ref="char:EOLhyphen"/>trary to the Word
+of God, we are bound to be obedient to his Lawes; and we had alſo better to
+reſt in quiel and peace with all men, and for quietneſſe ſake to give
+to men that which is not<pb n="20" facs="tcp:37690:12"/>due then to withhold the due from
+any man.</p>
+            <p>The next things I ſpeak of is Baptiſme and the Lords Supper,
+approving them to be expe<g ref="char:EOLhyphen"/>dient and pleaſing to God, and profitable to man:
+As for Baptiſm of Infants, 'tis very fit, for Chriſt ſaid except you
+receive the Kingdom of Heaven as this
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Child you cannot enter into the
+Kingdome of Heaven <hi>Luke</hi> 18.16. Which of you that denies Baptiſme in
+Infants that ever receiveth the Kingdome of God, are fréer from ſin
+then a little child: beſides know you not that the old Circumciſion was a
+Figure of our Baptiſme which ought to be adminiſtred on the eighth day, did
+not <hi>Paul</hi> Baptize whole Houſholds, yea whole Nations, whereof
+Gen<g ref="char:EOLhyphen"/>tiles were a part; and the reaſon
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Circum<g ref="char:EOLhyphen"/>ciſion was turned to
+Baptiſme, was becauſe that every thing containing to godlineſſe
+ſhould be done in the Name of Chriſt, the Son of God; as there was a change
+of the Order of Prieſt<g ref="char:EOLhyphen"/>hood, ſo there was a change of the old
+Circum<g ref="char:EOLhyphen"/>ciſion to Baptiſme: and why men and women were baptized, was
+becauſe they had received but a Figure of ſo great a ſolemnity; and why
+Chriſt was baptized after circumciſion, was be<g ref="char:EOLhyphen"/>cauſe he accepted if as
+pleaſing to God the Fa<g ref="char:EOLhyphen"/>ther, and far more excellent then circumciſion, and
+to fulfill all righteouſneſſe: what good Bap<g ref="char:EOLhyphen"/>tiſme doth, is this, only
+a ſign of grace of Gods holy Spirit, aſcending on a creature according
+<pb n="21" facs="tcp:37690:12"/>to his external conſpiration; for 'tis not the wa<g ref="char:EOLhyphen"/>ſhing
+of the body in water that waſhes away ſin, but of <hi>Chriſts</hi> onely
+Blood that purifies the crea<g ref="char:EOLhyphen"/>tures: circumciſion nor uncircumciſion
+avail<g ref="char:EOLhyphen"/>eth any thing, 'tis the n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wneſſe of life and the continuing therein; for he that is a
+believer when he is baptized, if he doth not perfectly ſerve God, is in a far
+greater errour then a little child. Much more I could have ſpoke, but this
+ſhall ſerve for the proof of Baptiſme of Infants. Now coming to the
+Sacrament of the Lords Supper; <hi>Chriſt</hi> ſaid at his laſt Supper to
+his Diſciples, <hi>Take, eat, this is my Body;</hi> the out<g ref="char:EOLhyphen"/>ward viſible
+ſign was Bread <hi>Chriſt</hi> brake, but his pure Body is the ſaving
+grace and health of our ſoul: <hi>And as often as it is done, it is done it
+is in in remembrance of Chriſt:</hi> In the ſame manner he alſo took the
+<hi>Cup,</hi> ſaying, <hi>This Cup is the New Teſtament in my blood, and as
+often as you eat this Bread, and drink of this Cup, you do it in remembrance of
+me, to ſhew the Lords Death till he come; Matth.</hi> 26.16. <hi>Mark</hi>
+14.22. <hi>Luke</hi> 22.19. 1 <hi>Cor.</hi> 11.24,25 26. Now againſt all
+oppoſers of this Truth that denyeth whatſoever in this Book I have writ,
+both of the <hi>Church</hi> and her Worſhip, the Apoſtle <hi>Paul</hi>
+ap<g ref="char:EOLhyphen"/>proveth of the <hi>Church,</hi> being aboveſaid, ſaying to unworthy
+Receivers, <hi>Have you not Houſes to eat and drink in, or deſpiſe you
+the Church of God,</hi> 1 <hi>Cor.</hi> 11.22. and in the next Verſe, as
+<pb n="22" facs="tcp:37690:13"/>much as the Apoſtle ſhould ſay, You are a ſhame to
+good men, ſhall I praiſe you in this, nay I praiſe you not, the type of
+the ſame worſhip was adminiſtred to <hi>Abraham</hi> by
+<hi>Melchizedec,</hi> and e<g ref="char:EOLhyphen"/>ſtabliſhed for ever. <hi>Jeſus Chriſt</hi>
+the eternal Prieſt governeth this <hi>Church</hi> and people according to his
+will. So deſiring all people to be ſtedfaſt in the doctrine of the Truth,
+and give no heed to e<g ref="char:EOLhyphen"/>very ſpirit; for that ſpirit that denyeth the
+Or<g ref="char:EOLhyphen"/>dinance of God, cannot be a ſtable ſpirit by the will of God; and I hope
+I have ſaid enough to convince the gainſayers of this truth.</p>
+            <p>And ſo to draw to my Exhortation and to the end of my Book, I
+beſéech our Men in Power, as our King his Council, and Parliament to
+exe<g ref="char:EOLhyphen"/>cute all judgement and juſtice according to equi<g ref="char:EOLhyphen"/>ty and right; and let no
+honour, no bounty, no wealth, no greatneſs, nor no tall Ceder have any
+friendſhip or favour in an unjuſt cauſe, then the pooreſt, raggedſt,
+meaneſt and ſimpleſt ſhrub. But that vice may be puniſhed and evil
+works, to the everlaſting eſtabliſhment of Truth. O look upon the poor of
+theſe Kingdoms whom the rich man inſlaves, and let the flouriſhing
+Goſpel have a frée paſſage: O let it be poured out as Oyl to our
+feſtring ſores, ſend out choſen and skilful Do<g ref="char:EOLhyphen"/>ctors of our poor
+ſouls, that may ſhew us a light by their zeal, and rehearſe the truth
+with boldneſs from that fountain which ever ſpringeth. O you Biſhops
+&amp; Miniſters be you qualified with all the<pb n="23" facs="tcp:37690:13"/>properties
+of godlineſs, that by your teaching and well grounded exhortations, we may
+reap profit and be edifled to the redreſſing of our per<g ref="char:EOLhyphen"/>plexed ſouls: and
+as you have the charge of the peoples ſouls in your tuition, as the ſower
+ſhould ſow his ſéed to be fruitful, ſo ſhould the
+well-grounded Word of God be preached abroad to the profit of all hearers. And
+you profeſſors and peo<g ref="char:EOLhyphen"/>ple that make ſuch a great doe about Religion, God
+will puniſh your ignorance, and not let your falſe interpretation go
+unpuniſhed; for know you not what <hi>Paul</hi> ſaith, <hi>There ſhall
+come ſuch as ſhall ſpeak evil of Dignities. Jude</hi> 8. O friends
+ſpeak not evil of Dignities, but be in obedience to all men as God hath
+commanded: <hi>Lot</hi> was o<g ref="char:EOLhyphen"/>bedient to the Angels at the gate of
+<hi>Sodom</hi> when he roſe and met them bowing himſelf to the ground,
+<hi>Gen.</hi> 19.1. The Apoſtle of Chriſt hath commanded ſeveral times
+all people to obey Ma<g ref="char:EOLhyphen"/>giſtrates, and to ſubmit to all men; that fulfills
+the word that ſaith, <hi>Have no reſpect no perſons;</hi> feaſt not the
+rich and ſend the poor empty away. Though <hi>Haman</hi> was hangd for acting
+evil againſt <hi>Mordecai</hi> becauſe he would not obey him, and as he
+would have ſerv'd himſelf ſo was he ſerved: yet this was no example for
+any to continue un<g ref="char:EOLhyphen"/>obedient, but an example for men not to ſéek a mans
+life, becauſe he will not honour them: &amp; as for all ſuch as goes on in
+theſe things, I durſt not bring in railing accuſations, but to ſay,
+<hi>the Lord<pb n="22" facs="tcp:37690:14"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:37690:14"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:37690:15"/>rebuke them, Jude verſe</hi> 9. <hi>Eſther</hi> 7.10.
+And indéed contrarily to the Word of God they go and ſpeak evil of
+things they know not, yee ſay they have the Light of <hi>CHRIST,</hi> which I
+have proved ſo be darkneſſe; they know not but natu<g ref="char:EOLhyphen"/>rally as bruit
+beaſts: in theſe things they cor<g ref="char:EOLhyphen"/>rupt themſelves, but wo unto them for
+they run gréedily after the errours of <hi>Balaam; Clouds they are
+without water, raging waves of the Sea, foaming out their own ſhame, wandring
+Stars to whom is reſerved the blackneſſe and darkneſs for ever,
+Jude</hi> 10, 11, 12, 13 <hi>verſes.</hi>
+            </p>
+            <p>
+               <hi>Chriſtian Friends,</hi> withraw your ſelves from thoſe
+men, and hearken to the Miniſters, and walk before God, as in purity unto
+honour, and live under this eſtabliſhed Government, the <hi>Church</hi> and
+her Worſhip, worthily as <hi>Chriſtians</hi> ought to doe, diſowning of
+nothing in Scripture but ful what <hi>I</hi> have ſubſcribed And if you
+will but learn to walk thus perfect in Love and Charity, 'twill bind your hope
+to a perfect aſſurance of E<g ref="char:EOLhyphen"/>ternal <hi>SALVATION;</hi> So the whole Trinity
+enabling you, as God the Father, Son, and Holy Ghoſt, inlighten you in the
+Truth, through this evil world to Everlaſting Glory. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37690:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
